@@ -1,5 +1,5 @@
 class Clothing:
-    
+    # adding comment for check in
     def __init__(self, color, size, style, price):
         self.color = color
         self.size = size
